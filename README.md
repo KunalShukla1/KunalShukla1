@@ -16,7 +16,8 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://kunal-shukla-portfolio.netlify.app/)
+🌐 Portfolio: [kunalshukla-portfolio.netlify.app](https://kunalshukla-portfolio.netlify.app)
+
 
 ---
 
