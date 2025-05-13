@@ -17,7 +17,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-shukla-4569bb31b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://kunal-shukla-portfolio.netlify.app/)
 
 
 ---
