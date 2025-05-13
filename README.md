@@ -52,8 +52,7 @@
 --
 ## 🏆 GitHub Trophies
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=KunalShukla1&theme=darkhub&no-bg=true&no-frame=true&rank=AA,AAA,A,B&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=KunalShukla1&theme=gruvbox&title=Repositories,Commits,Followers,Experience&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
