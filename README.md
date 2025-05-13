@@ -16,7 +16,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://www.linkedin.com/in/kunal-shukla-4569bb31b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-shukla-4569bb31b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome&logoColor=white)](https://kunalshukla-portfolio.netlify.app)
 
 
@@ -61,9 +61,9 @@
 
 ## 💬 Random Dev Quote
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Quote-The%20future%20belongs%20to%20those%20who%20use%20AI-blueviolet?style=for-the-badge&logo=OpenAI&logoColor=white" />
-</p>
+![AI](https://img.shields.io/badge/AI-FF8C00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
+*"The future is already here – it’s just not evenly distributed."* – William Gibson
 
 
 ---
