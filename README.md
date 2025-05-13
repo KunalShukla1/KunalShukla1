@@ -45,21 +45,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KunalShukla1&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" />
 
 
-<h3>📊 Most Used Languages</h3>
+### 📊 Most Used Languages
 
-<div align="left">
-  <b>SQL</b> <br>
-  <progress value="40" max="100"></progress> 35% <br><br>
-
-  <b>Python</b> <br>
-  <progress value="35" max="100"></progress> 30% <br><br>
-
-  <b>Power BI</b> <br>
-  <progress value="20" max="100"></progress> 20% <br><br>
-
-  <b>HTML/CSS/JS</b> <br>
-  <progress value="5" max="100"></progress> 15%
-</div>
+| Language       | Usage     | Bar Chart                                  |
+|----------------|-----------|--------------------------------------------|
+| 🟨 SQL          | 40%        | ██████████████████░░░░░░░░░░░░           |
+| 🟦 Python       | 35%        | ███████████████░░░░░░░░░░░░░░            |
+| 🟧 Power BI     | 20%        | ███████████░░░░░░░░░░░░░░░░░             |
+| 🟪 HTML/CSS/JS  | 5%         | ███░░░░░░░░░░░░░░░░░░░                   |
 
 --
 ## 🏆 GitHub Trophies
