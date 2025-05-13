@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Shukla</h1>
-<h3 align="center">Aspiring Data Analyst | Python Developer | BCA Graduate | Data Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Python Developer | BCA Graduate</h3>
 
 ---
 
