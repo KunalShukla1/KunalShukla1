@@ -16,7 +16,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Portfolio](https://kunal-shukla-portfolio.netlify.app/)
 
 ---
 
@@ -28,10 +28,11 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FF6F61?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-00BFFF?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
