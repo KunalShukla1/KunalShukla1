@@ -17,7 +17,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-shukla-4569bb31b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome&logoColor=white)](https://kunalshukla-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.your-portfolio-link.com)
 
 
 ---
@@ -61,10 +61,7 @@
 
 ## 💬 Random Dev Quote
 
-![AI](https://img.shields.io/badge/AI-FF8C00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-
-*"The future is already here – it’s just not evenly distributed."* – William Gibson
-
+*"Artificial intelligence is the new electricity."* – Andrew Ng
 
 ---
 
