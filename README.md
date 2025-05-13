@@ -49,13 +49,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalShukla1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
+--
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KunalShukla1&theme=darkhub&column=4&margin-w=15&no-frame=true&no-bg=true&rank=AA,AAA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=KunalShukla1&theme=darkhub&no-bg=true&no-frame=true&rank=AA,AAA,A,B&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
