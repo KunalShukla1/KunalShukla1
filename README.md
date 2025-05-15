@@ -54,10 +54,6 @@
 | 🟧 Power BI     | 20%        | ███████████░░░░░░░░░░░░░░░░░             |
 | 🟪 HTML/CSS/JS  | 5%         | ███░░░░░░░░░░░░░░░░░░░                   |
 
---
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=KunalShukla1&theme=gruvbox&title=Repositories,Commits,Followers,Experience&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
